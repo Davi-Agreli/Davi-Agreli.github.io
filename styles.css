@@ -1,4 +1,6 @@
 body {
     display: flex;
     flex-direction: column ;
-}
+    background-image: linear-gradient(60deg,
+     #070ff490, #52f90a90);
+
