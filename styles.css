@@ -1,6 +1,24 @@
 body {
+    background-color: #b5b5b5;
+}
+
+.main {
     display: flex;
-    flex-direction: column ;
-    background-image: linear-gradient(60deg,
-     #070ff490, #52f90a90);
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #202020;
+    width: 60vw;
+    height: 50vh;
+    margin: 0 auto;
+}
+
+#search {
+    margin: 0 50px;
+}
+
+.title {
+    color: #b5b5b5;
+    text-align: center;
+    margin-top: 50px;
 }
